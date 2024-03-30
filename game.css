@@ -1,0 +1,28 @@
+body {
+    background-color: brown;
+}
+
+#títulopag2 
+{
+color: #ffffff;
+}
+
+#output 
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #aa4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#botãoEnvio
+{
+color: rgb(249, 252, 249);
+}
+
+#número1, #número2 
+{
+    border-radius: 30%;
+}

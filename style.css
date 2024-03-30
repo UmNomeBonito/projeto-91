@@ -1,0 +1,16 @@
+body {
+    background-color: brown;
+}
+
+#login_div1, #login_div2
+{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 15px;
+    width: 30%;
+}
+
+#títulopag1 
+{
+color: #ffffff;
+}
